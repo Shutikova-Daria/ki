@@ -421,7 +421,7 @@ padding-top: 10px;
         border: 2px;
         border-style: solid;
         border-color: #003366;
-        width: 1030px;
+        width: 1050px;
         height: 730px;
         background-color: #ffffff;
         padding-top: 5px; 
@@ -644,7 +644,7 @@ color: #003366;
         font-size: 16px;
         line-height: 63px;
         float: left;
-        margin-left: -472px;
+        margin-left: -495px;
         margin-top: 160px;
         color: black;
         margin-bottom: 10px;
@@ -658,39 +658,41 @@ color: #003366;
         list-style: none;
         padding-top: 110px;
         float: left;
-        margin-left: -550px;
+        margin-left: -450px;
+        margin-right:-230px;
         margin-top: 100px;
     }
     .list2{
         margin-top: -20px;
+        margin-left:500px;
     }
     .list2 li{
         padding-top: 5px;
+        margin-left:-130px;
         padding-bottom: 5px;
     }
     .check-icon4 {
         width: 28px; 
         height: 28px;
         margin-right: 8px; 
-        vertical-align: middle;
-        margin-left: 8px;
+        margin-left:px;
         margin-top: -10px;
     }
     .check-icon5 {
         width: 28px; 
         height: 28px;
         margin-right: 8px;
-        margin-left: -84px;
+        margin-left:-px;
         margin-top: -5px;
-        vertical-align: middle;
+       
     }
     .check-icon6 {
         width: 28px; 
         height: 28px;
         margin-right: 8px; 
         vertical-align: middle;
-        margin-left: 35px;
-        margin-top: -8px;
+        margin-left: 5px;
+        margin-top: -90px;
     }
     
 
@@ -706,6 +708,7 @@ color: #003366;
         margin-top: 290px;
         color: black;
         margin-bottom: 10px;
+        margin-left:-630px;
 
     }
     .list3 ul{
@@ -785,6 +788,7 @@ color: #003366;
         height: 735px;
         margin-top: 30px;
         border-radius: 12px;
+        margin-left:250px;
     }
     .modules{
         height: 47px;
@@ -857,7 +861,7 @@ color: #003366;
         font-size: 16px;
         line-height: 63px;
         float: left;
-        margin-left: -420px;
+        margin-left: -395px;
         margin-top: 20px;
         color: black;
 
@@ -870,10 +874,10 @@ color: #003366;
         list-style: none;
         padding-top: 100px;
         float: left;
-        margin-left: -550px;
+        margin-left: -525px;
     }
     .list12{
-        margin-top: -20px;
+        margin-top: -30px;
     }
     .list12 li{
         padding-top: 5px;
@@ -891,7 +895,7 @@ color: #003366;
         width: 28px; 
         height: 28px;
         margin-right: 8px;
-        margin-left: -85px;
+        margin-left: -135px;
         margin-top: -5px;
         vertical-align: middle;
     }
@@ -900,7 +904,7 @@ color: #003366;
         height: 28px;
         margin-right: 8px; 
         vertical-align: middle;
-        margin-left: 65px;
+        margin-left: 75px;
         margin-top: -8px;
     }
     
@@ -912,10 +916,10 @@ color: #003366;
         font-size: 16px;
         line-height: 63px;
         float: left;
-        margin-left: -823px;
-        margin-top: 160px;
+        margin-left: -925px;
+        margin-top: 150px;
         color: black;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
 
     }
     .list22 ul{
@@ -926,7 +930,7 @@ color: #003366;
         list-style: none;
         padding-top: 110px;
         float: left;
-        margin-left: -75px;
+        margin-left: -83px;
         margin-top: -90px;
     }
     .list22{
@@ -941,14 +945,14 @@ color: #003366;
         height: 28px;
         margin-right: 8px; 
         vertical-align: middle;
-        margin-left: 8px;
+        margin-left: 3px;
         margin-top: -10px;
     }
     .check-icon5 {
         width: 28px; 
         height: 28px;
         margin-right: 8px;
-        margin-left: -84px;
+        margin-left: -95px;
         margin-top: -5px;
         vertical-align: middle;
     }
@@ -957,7 +961,7 @@ color: #003366;
         height: 28px;
         margin-right: 8px; 
         vertical-align: middle;
-        margin-left: 35px;
+        margin-left: 45px;
         margin-top: -8px;
     }
     
@@ -968,7 +972,7 @@ color: #003366;
         font-size: 16px;
         line-height: 63px;
         float: left;
-        margin-left: -760px;
+        margin-left: -865px;
         margin-top: 100px;
         color: black;
         margin-bottom: 10px;
@@ -1030,9 +1034,10 @@ color: #003366;
     }
     .box1{
         background-color: #003366;
-        width: 100%;
+        width: 1920px;
         height: 300px;
-        margin-top: -40px;
+        margin-top: -30px;
+        
     }
     
     
@@ -1049,7 +1054,7 @@ color: #003366;
         padding-right: 15px;
         padding-left: 15px;
         margin-top: 10px;
-        margin-left: 85px;
+        margin-left: 330px;
     
     }
     .textcompany h4{
@@ -1081,7 +1086,7 @@ color: #003366;
         padding-right: 15px;
         padding-left: 15px;
         margin-top: -385px;
-        margin-left: 650px;
+        margin-left: 899px;
         }
         .firstInput{
             width: 500px;
@@ -1119,7 +1124,7 @@ color: #003366;
             margin-bottom: 20px;
             text-align: left;
             float: left;
-            margin-left: -700px;
+            margin-left: -230px;
         }
         
         .testimonial-cards {
@@ -1136,7 +1141,7 @@ color: #003366;
             padding: 15px;
             background-color: #fff;
             margin-left: 10px;
-            margin-right: -100px;
+            margin-right: -590px;
         }
         
         .testimonial-card2 img {
@@ -1198,7 +1203,7 @@ color: #003366;
             border-radius: 30px;
             width: 200px;
             height: 40px;
-            margin-left: 520px;
+            margin-left: 760px;
             margin-top: 20px;
         }
         
@@ -1253,8 +1258,8 @@ color: #003366;
         .faq-container {
             display: flex;
             align-items: flex-start; 
-            width: 100%;
-            gap: 40px;
+            width: 1170px;
+            gap: 40px;1
             margin-top: 100px;
         }
         .items{
@@ -1266,7 +1271,7 @@ color: #003366;
             font-size: 30px;
             color: #003366;
             margin: 0; 
-            margin-left: 100px; 
+            margin-left: 350px; 
             padding-top: 50px; 
             width: 100px; 
             text-align: left;
@@ -1351,7 +1356,7 @@ color: #003366;
             width: 320px; 
             height: 400px;
             margin-top: 50px;
-            margin-right: 80px;
+            margin-right: -270px;
             align-items: center;
             justify-content: center;
         }
@@ -1424,14 +1429,14 @@ color: #003366;
         .footer img{
             align-items: center;
             margin-top: 10px;
-            margin-left: 100px;
+            margin-left: 340px;
         }
         .footer h5{
             text-align: left;
             margin-top: -40px;
             align-items: center;
             justify-content: center;
-            margin-left:1010px;
+            margin-left:1270px;
             font-family: 'Roboto', sans-serif;
             font-size: 14px;
             font-weight: 400;
